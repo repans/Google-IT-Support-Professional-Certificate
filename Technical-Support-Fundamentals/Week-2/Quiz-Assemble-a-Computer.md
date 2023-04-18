@@ -33,6 +33,10 @@ Quiz consideration:
 Good luck!
 
 
+-----------------   
+
+#### Solution: 
+![Assemble-a-Computer-img-4](Media/Assemble-a-Computer-img-4.png) 
 
 
 
