@@ -119,4 +119,4 @@ What do you do next?
 
 
 --- 
-> [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals/) {Week-5}
+> [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals/) {Week-6}
