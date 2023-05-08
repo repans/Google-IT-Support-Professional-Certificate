@@ -92,7 +92,7 @@ The help desk receives a call from a customer/user with the following problem: â
 - [ ] User can not log-in to their account.  
 
 -----
-## (Alterbative Questions) 
+## (Alternative Questions) 
 
 ### 01. ___________________ should be the first step when troubleshooting
    
@@ -179,7 +179,7 @@ The help desk receives a call from a customer/user with the problem â€œMy system
 
 
 -----
-## (More Alterbative Questions) 
+## (More Alternative Questions) 
 
 
 ### 07. Which of these statements describe one of the parts needed to write good documentation?
