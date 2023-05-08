@@ -133,6 +133,16 @@ What should be your next step:
 - [ ] Being fast.   
 
 
+### 05. Consider the following case study:
+
+You receive a phone call from a remote user, saying they cannot connect to the company server. The user is in a rush and is frustrated. You take the call and start your interaction with the user. The user, having some computer knowledge, tells you what steps they perform to try to solve the problem. In order to find the root cause, you need to re-try some of the same steps the user performed. Which of the following is the best way to communicate with the user the steps you want to perform?
+   
+- [ ] Acknowledging the steps the user did and go radio silence while you evaluate the problem.   
+- [x] Saying, “Sorry for inconveniencing you, I know that you already did some of these steps, but in order to find the root cause, I will need you to perform some of them again.”   
+- [ ] Saying, “Let us start working on your problem. Please do the following steps.”   
+- [ ] Telling the user you can not trust what they have done and need to start your own troubleshooting.   
+
+
 ### 06. The IT documentation should be: (select all that apply)
    
 - [ ] Only in printed format   
@@ -149,28 +159,12 @@ What should be your next step:
 - [ ] The user identification.   
 
 
-### 07. Which of these statements describe one of the parts needed to write good documentation?
-   
-- [ ] Timestamps of each interaction with the customer.   
-- [ ] Detailed information of the conversation between you and the user.   
-- [ ] Which computer you used to solve the problem.   
-- [x] Exact instructions on how to fix the problem.  
-
-
 ### 08. ________________________ is the most common pitfall when troubleshooting.
    
 - [x] Going on autopilot and not finding the root cause of the problem   
 - [ ] Asking questions and gathering data   
 - [ ] Guessing the solution   
 - [ ] Using the fastest possible solution   
-
-
-### 08. Which of the following is a common pitfall when troubleshooting?
-   
-- [x] Moving through issues out of habit and without careful thought.   
-- [ ] Asking too many questions.   
-- [ ] Investigating the issue.   
-- [ ] Documenting the problem.   
 
 
 ### 10. Consider the following case study:
@@ -183,12 +177,34 @@ The help desk receives a call from a customer/user with the problem “My system
 - [ ] Root cause found
 
 
+
+-----
+## (More Alterbative Questions) 
+
+
+### 07. Which of these statements describe one of the parts needed to write good documentation?
+   
+- [ ] Timestamps of each interaction with the customer.   
+- [ ] Detailed information of the conversation between you and the user.   
+- [ ] Which computer you used to solve the problem.   
+- [x] Exact instructions on how to fix the problem.  
+
+
+### 08. Which of the following is a common pitfall when troubleshooting?
+   
+- [x] Moving through issues out of habit and without careful thought.   
+- [ ] Asking too many questions.   
+- [ ] Investigating the issue.   
+- [ ] Documenting the problem.   
+
+
 ### 10. Scenario: The help desk receives a call from a customer\user with the problem, “My laptop is not turning on.” Select the best ticket documentation. 
    
 - [x] After asking the user when was the last time they charged the laptop, it was found the laptop had not been charged in four days. I asked the user to plug-in the laptop to a power outlet and wait at least 5 minutes and try again. The laptop is working fine.      
 - [ ] Laptop not working. Working now.   
 - [ ] Issue solved.   
 - [ ] The user connected the laptop to the power supply.   
+
 
 
 --- 
