@@ -78,8 +78,8 @@ A user contacts you through chat, saying they are unsuccessfully trying to acces
    
 - [ ] Follow the cookie crumbs.   
 - [x] Start-with-the-quickest-step-first.   
-- [ ] Asking questions.   (x)  
-- [ ] Isolating the problem.  (x)  
+- [ ] Asking questions.     
+- [ ] Isolating the problem.  
 
 
 ### 10. Consider the following scenario:
@@ -165,6 +165,14 @@ You receive a phone call from a remote user, saying they cannot connect to the c
 - [ ] Asking questions and gathering data   
 - [ ] Guessing the solution   
 - [ ] Using the fastest possible solution   
+
+
+### 09. Sometimes there are multiple options that can be used to isolate a problem. What option should be tried first?
+   
+- [ ] Asking the customer to choose.   
+- [ ] The longest to implement.   
+- [ ] Always start by reinstalling the OS.   
+- [x] The fastest to implement.   
 
 
 ### 10. Consider the following case study:
