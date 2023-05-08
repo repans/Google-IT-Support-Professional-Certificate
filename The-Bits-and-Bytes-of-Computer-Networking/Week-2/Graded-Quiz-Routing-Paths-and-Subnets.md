@@ -62,31 +62,35 @@ Good luck!
 ![image](https://user-images.githubusercontent.com/89868933/236841798-07f28821-9ed5-4af7-a39f-440a2c1815ef.png)
 
 ### 2. 
-“Source or Destination Not Present”  
+“Source or Destination Not Present”   
+
 ![image](https://user-images.githubusercontent.com/89868933/236842834-a91c6dd1-fc9f-4f1c-90fd-18c18a465257.png)
 
 ### 3. 
 ![image](https://user-images.githubusercontent.com/89868933/236843380-e8d844ea-9453-40b1-9cae-071448522a62.png)
 
 ### 4. 
-
+![image](https://user-images.githubusercontent.com/89868933/236881080-61896ab5-1027-4b4e-ba24-fdf575877f82.png)
 
 ### 5. 
-
+![image](https://user-images.githubusercontent.com/89868933/236881309-ae6e0b5a-926f-48a9-a5ec-0a0481cbe2a1.png) 
 
 ### 6. 
+“Source or Destination Not Present”   
 
+![image](https://user-images.githubusercontent.com/89868933/236881463-d2b8b775-54d0-4664-b01c-d688a52f3173.png)  
 
 ### 7.  
+“Source or Destination Not Present”   
 
+![image](https://user-images.githubusercontent.com/89868933/236881937-19b85251-143d-4a34-b649-d5df4a138f70.png)  
 
 ### 8. 
+![image](https://user-images.githubusercontent.com/89868933/236882190-673b0e37-b58f-4672-b4cf-3763715ec241.png)
 
 
 
-
-
-
+![image](https://user-images.githubusercontent.com/89868933/236883505-775a1e1a-84a7-499e-8c2c-c0bd917dc8b4.png)
 
 
 
