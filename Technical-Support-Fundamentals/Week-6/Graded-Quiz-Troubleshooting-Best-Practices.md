@@ -110,6 +110,21 @@ The help desk receives a call from a customer/user with the following problem: â
 - [ ] Acquiring technical knowledge   
 
 
+### 03. Imagine the following scenario: You are an IT support specialist, and a user brings their computer to be repaired. You have the following conversation:
+
+  User: Hi! I have a problem with my laptop. It is totally broken. I think I need a new one.  
+  You: Hi! What is the problem?   
+  User: The laptop does not turn on.  
+  You: Sorry to hear that; let me try. You are right, it is not turning on.  
+
+What should be your next step:
+   
+- [ ] Replace the laptopâ€™s battery.   
+- [ ] Agree with the user and replace the laptop.   
+- [x] Ask more questions, and try to identify the root cause of the problem.   
+- [ ] Tell the user to leave the laptop and wait for your call.   
+
+
 ### 04. Which of the following characteristics is part of great customer service?
    
 - [x] Acknowledging the user.   
