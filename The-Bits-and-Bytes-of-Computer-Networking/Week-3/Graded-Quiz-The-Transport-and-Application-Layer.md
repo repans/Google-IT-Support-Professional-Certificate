@@ -164,5 +164,68 @@
 
 
 
+-----------------
+## (More Alternative Questions)  
+
+
+### 01.  The concept of taking traffic that’s all aimed at the same node and delivering it to the proper receiving service is known as _________.
+     
+- [x]  demultiplexing     
+- [ ]  encapsulation     
+- [ ]  routing     
+- [ ]  multiplexing    
+
+
+### 02.  Which field in a Transmission Control Protocol (TCP) header provides the next expected segment?
+     
+- [ ]  Data offset     
+- [ ]  Sequence number     
+- [x]  Acknowledgement number     
+- [ ]  Checksum     
+
+
+### 03.  The sequence of SYN, SYN/ACK, and ACK packets is known as the _________.
+     
+- [ ]  four-way handshake     
+- [ ]  high five     
+- [x]  three-way handshake     
+- [ ]  two-way handshake     
+
+
+### 04.  A Transmission Control Protocol (TCP) connection is in working order and both sides can send each other data. What is the TCP socket state?
+    
+- [ ]  SYN_SENT    
+- [ ]  SYN_RECEIVED    
+- [ ]  LISTEN    
+- [x]  ESTABLISHED    
+
+
+### 05.  A communication sent through Transmission Control Protocol (TCP) arrives out of order. What allows the data to be put back together in the correct order?   
+    
+- [x]  Sequence numbers    
+- [ ]  Acknowledgement number    
+- [ ]  Checksum    
+- [ ]  Preamble    
+
+
+### 07.  One side in a Transmission Control Protocol (TCP) connection has not been able to properly recover from a series of malformed segments. Which Transmission Control Protocol (TCP) flag will be used?
+   
+- [ ]  FIN   
+- [ ]  PSH   
+- [x]  RST   
+- [ ]  SYN
+
+
+### 09.  What port does the File Transfer Protocol (FTP) typically listen on?   
+   
+- [ ]  443   
+- [ ]  80   
+- [ ]  25    
+- [x]  21   
+
+
+
+
+
 --- 
 > [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/) {Week-2} 
