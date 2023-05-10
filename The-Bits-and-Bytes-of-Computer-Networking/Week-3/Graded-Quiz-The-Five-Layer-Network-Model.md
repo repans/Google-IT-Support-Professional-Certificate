@@ -131,5 +131,96 @@ Network C has an address space of 172.16.1.0/24 and is connected to router Z, us
 - [ ]  ethernet port     
 
 
+-------------------------------
+## (Alternative Questions) 
+
+
+### 01.  Computer 1 on network A, with IP address of 10.1.1.205, wants to send a packet to Computer 2, with IP address of 172.16.1.57. On which network is computer 2?
+    
+- [ ]  Network A    
+- [ ]  Local network    
+- [x]  Network C    
+- [ ]  Network B  
+
+
+### 04.  What information is in the data payload for the IP datagram?
+    
+- [x]  TCP segment    
+- [ ]  ART table    
+- [ ]  Network B address space    
+- [ ]  The ARP discovery request     
+
+
+### 05.  When constructing the Ethernet datagram to send the packet from Router Y to Router Z, what information needs to be in the destination MAC address?
+    
+- [ ]  Computer 1’s MAC address    
+- [x]  Router Z’s MAC address    
+- [ ]  Computer 2’s MAC address    
+- [ ]  Router Y’s MAC address    
+
+
+### 07.  Computer 1 on network C, with IP address of 172.16.1.57, wants to send a packet to Computer 2, with IP address of 172.16.1.133. If the TTL value was set to 64 at the beginning, what is the value of the TTL once it reaches its destination?
+    
+- [x]  64    
+- [ ]  65    
+- [ ]  0    
+- [ ]  61  
+
+
+### 08.  Computer 1 on network A, with IP address of 10.1.1.8, wants to send a packet to Computer 2, with IP address of 10.1.1.205. Taking in consideration that computer 1 is sending a FTP request to computer 2, and the source port on computer 1 is 21086, which of the following contains the correct information for the first TCP segment of data?
+    
+- [ ]   Source Port: 21    
+        Destination Port: 21    
+        Sequence Number: 4    
+        Acknowledgment Number: 1
+    
+- [ ]   Source Port: 80    
+        Destination Port: 5000    
+        Sequence Number: 1    
+        Acknowledgment Number: 1
+    
+- [ ]   Source Port: 5000    
+        Destination Port: 80    
+        Sequence Number: 1    
+        Acknowledgment Number: 2
+    
+- [x]   Source Port: 21086    
+        Destination Port: 21    
+        Sequence Number: 1    
+        Acknowledgment Number: 2   
+
+
+### 09.  Computer 1 on network A, with IP address of 10.1.1.10, wants to send a packet to Computer 2, with IP address of 172.16.1.64. Which of the following has the correct IP datagram information for the fields: Version, minimum Header Length, Source IP, and Destination IP?
+    
+- [ ]   Version: 6    
+        Header Length: 20    
+        Source IP Address: 8a:1a:2b:3c:4d:5f    
+        Destination IP address: 2a:2b:3c:4d:8f
+    
+- [ ]   Version: 4    
+        Header Length: 32    
+        Source IP Address: 10.1.1.1    
+        Destination IP address: 172.16.1.1
+    
+- [ ]   Version: 5    
+        Header Length: 16    
+        Source IP Address: 171.1.1.1    
+        Destination IP address: 172.16.1.0/24.
+    
+- [x]   Version: 4    
+        Header Length: 20    
+        Source IP Address: 10.1.1.10    
+        Destination IP address: 172.16.1.64     
+
+
+### 10.  The ________ layer is responsible for sending ones and zeros through a process called modulation from Computer 1 to Computer 2.
+    
+- [x]  Physical    
+- [ ]  Network    
+- [ ]  Application    
+- [ ]  Transport  
+
+
+
 --- 
 > [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/) {Week-3} 
