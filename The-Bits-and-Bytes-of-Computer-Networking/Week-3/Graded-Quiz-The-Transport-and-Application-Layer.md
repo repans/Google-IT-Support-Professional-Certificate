@@ -88,6 +88,79 @@
 - [ ]  acknowledgement    
 
 
+-----------------------
+## (Alternative Questions) 
+
+### 01.  The transport layer handles multiplexing and demultiplexing through what type of device?
+    
+- [ ]  Routers    
+- [ ]  Switches    
+- [x]  Ports    
+- [ ]  Hubs   
+
+
+### 03.  A Transmission Control Protocol (TCP) connection is established and two devices ensure that they're speaking the same protocol. What has occurred?
+    
+- [ ]  Handwaving    
+- [ ]  Two-way handshake    
+- [ ]  Four-way handshake    
+- [x]  Three-way handshake   
+
+
+### 04.  A Transmission Control Protocol (TCP) connection is in working order and both sides can send each other data. What is the TCP socket state?
+    
+- [x]  ESTABLISHED    
+- [ ]  SYN_RECEIVED    
+- [ ]  LISTEN    
+- [ ]  SYN_SENT    
+
+
+### 05.  If the checksum doesn't compute for a packet sent at the Internet Protocol (IP) level, what will happen to the data?
+   
+- [x]  The data will be discarded   
+- [ ]  It will be sent, but may be out of order.   
+- [ ]  The data will be sent back to the sending node with an error.   
+- [ ]  The data will be resent   
+
+
+### 06.  The OSI network model has _____ layers.
+    
+- [ ]  five    
+- [x]  seven    
+- [ ]  six    
+- [ ]  eight   
+
+
+### 07.  Which Transmission Control Protocol (TCP) flag is used to make sure the receiving end knows to examine the sequence number field?   
+    
+- [x]  SYN    
+- [ ]  PSH    
+- [ ]  RST    
+- [ ]  FIN    
+
+
+### 08.  HTTP is an example of a(n) ______ layer protocol.
+    
+- [ ]  data-link    
+- [x]  application    
+- [ ]  transport    
+- [ ]  network     
+
+
+### 09.  Ports that are generally used to establish outbound connections are known as ______ ports.   
+    
+- [ ]  reserved    
+- [ ]  system    
+- [x]  ephemeral     
+- [ ]  registered    
+
+
+### 10.  A communication between two devices is over the maximum limit of an ethernet frame size. The Transmission Control Protocol (TCP) splits up the data into segments. Which field in the header helps keep track of the many segments?    
+     
+- [ ]  Urgent pointer     
+- [ ]  Acknowledgement number     
+- [x]  Sequence number     
+- [ ]  Checksum   
 
 
 
