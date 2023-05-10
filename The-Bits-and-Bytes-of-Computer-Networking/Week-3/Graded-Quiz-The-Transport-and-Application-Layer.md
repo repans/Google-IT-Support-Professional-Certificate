@@ -11,7 +11,7 @@
 ### 01.  Nodes on a network have the ability to direct traffic toward many different receiving services. What provides this ability in the transport layer?
     
 - [ ]  File Transfer    
-- [ ]  Multiplexing    
+- [x]  Multiplexing    
 - [ ]  Socket address    
 - [ ]  Demultiplexing    
 
@@ -52,7 +52,7 @@
     
 - [ ]  application layer    
 - [ ]  session layer    
-- [ ]  presentation layer    
+- [x]  presentation layer    
 - [ ]  data layer   
 
 
@@ -61,7 +61,7 @@
 - [ ]  ACK    
 - [ ]  URG    
 - [ ]  RST    
-- [ ]  PSH    
+- [x]  PSH    
 
 
 ### 08.  Application layer data lives in the _____ section of the transport layer protocol.
