@@ -87,6 +87,89 @@
 - [ ]  Next header    
 
 
+------------------------ 
+## Alternative Questions 
+
+
+### 01.  What is one type of built-in protocol mechanism?
+    
+- [ ]  Error detection    
+- [ ]  IPv6    
+- [ ]  Time to Live (TTL) expiration    
+- [ ]  Misconfiguration error    
+
+
+### 02.  A support technician uses the ping utility on a system that is online, yet no response is received. What should be allowed through a firewall, for ping to operate correctly?   
+    
+- [ ]  TTL     
+- [ ]  Echo request     
+- [ ]  Echo reply    
+- [x]  ICMP     
+
+
+### 03.  The Linux and macOS program traceroute is known by a slightly different name on Windows. It's referred to as ______.   
+    
+- [x]  tracert     
+- [ ]  Tracepath    
+- [ ]  ipconfig     
+- [ ]  Ping    
+
+
+### 04.  You run the Test-NetConnection command on a Windows PC while only providing a host name. As a result, what default action does the command use?   
+    
+- [ ]  Private tunnel    
+- [ ]  Name server lookup    
+- [x]  IMCP eEcho request     
+- [ ]  Network address translation    
+
+
+### 05.  What is one of the most commonly used name resolution tools?
+    
+- [ ]  DNS    
+- [ ]  Netcat    
+- [x]  Nslookup    
+
+
+### 06. One of Google's public DNS servers is 8.8.8.8. The other one is ______.   
+    
+- [x]  8.8.4.4    
+- [ ]  0.0.0.0    
+- [ ]  255.255.255.255    
+- [ ]  1.2.1.1    
+
+
+### 07.  With virtualization, a single physical machine, called a host, can run many individual virtual instances, called ______.   
+    
+- [ ]  Servers     
+- [x]  Guests    
+- [ ]  Clients     
+- [ ]  Clouds    
+
+
+### 08.  What is The IPv6 loopback address?
+    
+- [ ]  1000:0000:0000:0000:0000:0000:0000:0000     
+- [ ]  0000:0000:0000:0000:0000:0000:0000:0000     
+- [x]  0000:0000:0000:0000:0000:0000:0000:0001    
+- [ ]  127.0.0.1   
+
+
+### 09.  When shortening an Internet Protocol (IP) v6 address, which two rules are used? Select two that apply.
+    
+- [x]  Removing all leading zeros.    
+- [ ]  Replace groups of ones with semicolons.    
+- [ ]  Removing all leading ones.    
+- [x]  Replace groups of zeros with colons.    
+
+
+### 10.  Which Internet Protocol (IP) v6 header field is used to determine the quality of service level for a datagram?   
+    
+- [x]  Flow label     
+- [ ]  Next header    
+- [ ]  Version    
+- [ ]  Payload length     
+
+
 
 --- 
 > [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking/) {Week-6} 
