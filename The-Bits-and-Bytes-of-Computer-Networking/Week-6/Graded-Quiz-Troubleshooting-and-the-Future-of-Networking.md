@@ -93,7 +93,7 @@
 
 ### 01.  What is one type of built-in protocol mechanism?
     
-- [ ]  Error detection    
+- [x]  Error detection    
 - [ ]  IPv6    
 - [ ]  Time to Live (TTL) expiration    
 - [ ]  Misconfiguration error    
@@ -115,27 +115,28 @@
 - [ ]  Ping    
 
 
-### 04.  You run the Test-NetConnection command on a Windows PC while only providing a host name. As a result, what default action does the command use?   
-    
-- [ ]  Private tunnel    
-- [ ]  Name server lookup    
-- [x]  IMCP eEcho request     
-- [ ]  Network address translation    
+### 04.  An Internet Protocol (IP) v6 address is how many bits in size?   
+     
+- [ ]  256     
+- [ ]  32     
+- [x]  128     
+- [ ]  64     
 
 
-### 05.  What is one of the most commonly used name resolution tools?
-    
-- [ ]  DNS    
-- [ ]  Netcat    
-- [x]  Nslookup    
+### 05.  You need to find the Internet Protocol (IP) address for a website. Which command do you use on a Windows system?   
+     
+- [x]  Nslookup     
+- [ ]  Pathping     
+- [ ]  Netcat      
+- [ ]  Ping  
 
 
-### 06. One of Google's public DNS servers is 8.8.8.8. The other one is ______.   
-    
-- [x]  8.8.4.4    
-- [ ]  0.0.0.0    
-- [ ]  255.255.255.255    
-- [ ]  1.2.1.1    
+### 06. Most public Domain Name Servers (DNS) are available globally through which technology?
+      
+- [x]  Anycast      
+- [ ]  Echo request       
+- [ ]  Time To Live (TTL) field      
+- [ ]  Host file   
 
 
 ### 07.  With virtualization, a single physical machine, called a host, can run many individual virtual instances, called ______.   
@@ -162,12 +163,12 @@
 - [x]  Replace groups of zeros with colons.    
 
 
-### 10.  Which Internet Protocol (IP) v6 header field is used to determine the quality of service level for a datagram?   
+### 10.  What size is an Internet Protocol (IP) v6 payload length field?   
     
-- [x]  Flow label     
-- [ ]  Next header    
-- [ ]  Version    
-- [ ]  Payload length     
+- [ ]  32-bit    
+- [ ]  20-bit     
+- [ ]  8-bit    
+- [x]  16-bit       
 
 
 
