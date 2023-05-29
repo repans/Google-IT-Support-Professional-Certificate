@@ -92,8 +92,87 @@
 --------------------------
 ## (Alternative Questions) 
 
+### 1. Which of the following statements are true about child processes in Windows? Select all that apply.
+   
+- [x] A child process can be terminated by clicking on the X button in the top right corner of the application.
+- [ ] A child process is dependent on its parent process until the child process is terminated.
+- [ ] A child process can be terminated by running the taskkill /pid command in the CLI.
+- [x] A child process inherits environment variables and settings from its parent.
+
+### 2. In the following Linux command, which is the parent process and which is the child?
+
+```bash
+$ less /etc/myfile | grep Hello
+```
+   
+- [ ] The parent is grep and the child is less.   
+- [ ] The parent is /etcand the child is myfile.    
+- [x] The parent is less and the child is grep.   
+- [ ] The parent is less and the child is /etc/myfile.   
 
 
+### 3. Which of the following methods can be used to get information on processes that are running in Windows? Select all that apply.
+
+- [x] From the PowerShell prompt, use the Get-Process commandlet.
+- [x] From the CLI, use the tasklist command.
+- [x] Use the Windows Task Manager.
+- [ ] From the CLI, use the ps command.
+
+
+### 4. When using the ps -x command to check the status of a process in Linux, how would you know if a process is suspended (stopped)?
+
+- [ ] There is a letter S under the STAT field.
+- [ ] There is a letter R under the STAT field.
+- [ ] There is a letter S under the COMMAND field.
+- [x] There is a letter T under the STAT field.
+
+
+### 5. Which of the following statements are true about SIGINT? Select all that apply.
+
+- [ ] It is a signal that exists in both Windows and Linux.
+- [ ] It can be sent at the CLI by typing the sigint command.
+- [x] It is an interrupt signal that can be sent to a process that is running.
+- [x] It can be sent at the CLI by pressing the CTRL+C keys.
+
+
+### 6. You launch notepad.exe from a PowerShell command prompt. Later, you use Process Explorer to restart the notepad.exe process? After restart, what is the parent process of notepad.exe?
+
+- [ ] smss.exe
+- [ ] PowerShell (powershell.exe)
+- [ ] notepad.exe
+- [x] Process Explorer (procexp.exe)
+
+
+### 7. In Linux, what signal is sent when you enter the kill pid command?
+
+- [ ] SIGINT
+- [ ] SIGTSTP
+- [ ] SIGKILL
+- [x] SIGTERM
+
+
+### 8. In iOS and Android, what’s the first thing you should try when troubleshooting a misbehaving app?
+
+- [ ] Close apps, one at a time, starting with the foreground app.
+- [ ] Close apps, one at a time, starting with the least recently used app.
+- [ ] Uninstall apps, one at a time, starting with the least recently used app.
+- [x] Check for an app that is using a lot of battery.
+
+
+### 9. Which of the following Powershell commands will sort processes by amount of non-paged memory, in descending order?
+
+- [ ] Get-Process| Sort CPU -descending | Select -property ID, ProcessName
+- [ ] Get-Process| Sort -property ID, ProcessName
+- [ ] Get-Process| Sort WS -ascending | Select -property ID, ProcessName
+- [x] Get-Process| Sort NPM -descending | Select -property ID, ProcessName
+
+
+### 10. What does the top command do in Linux? Select all that apply.
+
+- [x] It provides a snapshot of total tasks currently running or idling.
+- [x] It provides information on process CPU and memory usage.
+- [ ] It lists the top ten largest files on the system.
+- [x] It lists the top processes that are using the most resources on a machine.
 
 
 --- 
