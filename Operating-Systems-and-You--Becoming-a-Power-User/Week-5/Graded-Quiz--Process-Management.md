@@ -92,6 +92,7 @@
 --------------------------
 ## (Alternative Questions) 
 
+
 ### 1. Which of the following statements are true about child processes in Windows? Select all that apply.
    
 - [x] A child process can be terminated by clicking on the X button in the top right corner of the application.
@@ -129,7 +130,7 @@ $ less /etc/myfile | grep Hello
 
 ### 5. Which of the following statements are true about SIGINT? Select all that apply.
 
-- [ ] It is a signal that exists in both Windows and Linux.
+- [x] It is a signal that exists in both Windows and Linux.
 - [ ] It can be sent at the CLI by typing the sigint command.
 - [x] It is an interrupt signal that can be sent to a process that is running.
 - [x] It can be sent at the CLI by pressing the CTRL+C keys.
@@ -173,6 +174,66 @@ $ less /etc/myfile | grep Hello
 - [x] It provides information on process CPU and memory usage.
 - [ ] It lists the top ten largest files on the system.
 - [x] It lists the top processes that are using the most resources on a machine.
+
+
+
+
+--------------------------
+## (More Alternative Questions) 
+
+
+### 1. When Windows boots up, what is the first non-kernel process that starts?
+
+- [ ] Powershell.
+- [x] The smss.exe process
+- [ ] The csrss.exe process.
+- [ ] The winlogon process.
+
+### 2. When a process completes its task, what happens? Select all that apply.
+
+- [x] The process terminates automatically.
+- [ ] The process releases all the resources it was using to its parent.
+- [x] The process releases all the resources it was using back to the kernel.
+- [ ] The process goes into a suspended state.
+
+### 3. How do you find a process PID number in Windows Task Manager?
+
+- [ ] Select a process from the process list.
+- [ ] Click on the Processes tab.
+- [x] Click the Details tab.
+- [ ] Task Manager will not show PID numbers (you have to use the tasklist command or the Get-Process commandlet).
+
+
+### 4. Which of the following methods will provide information on processes that are running in Linux? Select all that apply.
+
+- [x] List the contents of the /proc directory.
+- [x] Use the ps -x command.
+- [ ] Use the ls command.
+- [ ] List the contents of the /etc directory.
+
+
+### 5. Which of the following statements are true about SIGINT? Select all that apply.
+
+- [x] It is an interrupt signal that can be sent to a process that is running.
+- [x] It is a signal that exists in both Windows and Linux.
+- [x] It can be sent at the CLI by pressing the CTRL+C keys.
+- [ ] It can be sent at the CLI by typing the sigint command.
+
+
+### 7. What are the two most common ways to terminate a process in Linux at the CLI? Select two options.
+
+- [x] Use the kill pid command.
+- [ ] Use the terminate process command.
+- [ ] Use the end process command.
+- [x] Use the kill -KILL pid command.
+
+
+### 10. Which of the following Linux commands shows information about the current time, how long your system's been running, how many users are logged on, and what the load average of your machine is?
+
+- [x] uptime
+- [ ] lsof
+- [ ] ps -ef
+- [ ] top
 
 
 --- 
