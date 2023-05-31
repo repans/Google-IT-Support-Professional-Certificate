@@ -71,6 +71,79 @@
 - [ ] Ask the user for their logon information
 - [x] Wipe the machine for future use
 
----
+---------------
+## (Second Set) 
+
+### Question 1:  Which company might have an IT infrastructure run by a single person?
+
+- [ ] Facebook
+- [x] A local small business
+- [ ] Google
+- [ ] Apple
+
+### Question 2:  Which of these are common responsibilities of systems administrators? Check all that apply.
+
+- [ ] Help users to pick the right desktop chair
+- [x] Constantly troubleshoot problems, such as network issues
+- [x] Work in the background to make sure a company’s IT infrastructure is always working
+- [x] Help users with issues, such as lost passwords and login problems
+
+### Question 3: Of the following, which type of server hardware is the most space-efficient?
+
+- [ ] Blade server
+- [x] Rack server
+- [ ] KVM switch
+- [ ] Tower server
+
+### Question 4: Which of the following tools is not provided by a KVM switch?
+
+- [ ] Keyboard
+- [ ] Printer
+- [ ] Mouse
+- [x] Monitor
+
+### Question 5: What are some disadvantages of cloud computing? (Choose all that apply)
+
+- [x] It could potentially cost more
+- [ ] Not having to manage server hardware
+- [x] Becoming dependent on the cloud provider
+- [ ] Use less local storage space
+
+### Question 6: Which of the following are considerations when developing computer policies? (Choose all that apply)
+
+- [x] Should a password be set on an employee's company phone?
+- [x] Should users be able to view non-work-related websites, like Facebook?
+- [x] Should users be able to install software
+- [ ] Should users be able to decide the brightness of their monitor?
+
+### Question 7: Broken computers are being eco-recycled. In which stage of the hardware lifecycle does this scenario belong to?
+
+- [ ] Deployment
+- [ ] Maintenance
+- [x] Retirement
+- [ ] Procurement
+
+### Question 8: When a machine is having issues, an IT Support Specialist has to file an RMA, or Return Merchandise Authorization form, with the vendor of the machine. Which stage of the hardware lifecycle does this scenario belong to?
+
+- [ ] Deployment
+- [ ] Retirement
+- [ ] Procurement
+- [x] Maintenance
+
+### Question 9: A script sets up user accounts and installs software for a machine. Which stage of the hardware lifecycle does this scenario belong to?
+
+- [x] Deployment
+- [ ] Retirement
+- [ ] Procurement
+- [ ] Maintenance
+
+### Question 10: Which of the following is not one of the main stages of the hardware lifecycle?
+
+- [ ] Deployment
+- [ ] Maintenance
+- [x] Recycling
+- [ ] Procurement
+
+---------
 
 > [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services/) {Week-1}
