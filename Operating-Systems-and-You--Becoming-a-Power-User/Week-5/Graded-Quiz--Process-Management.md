@@ -15,12 +15,12 @@
 - [ ] The notepad.exe process will terminate when the Powershell process terminates.
 
 
-### 2. When a process completes its task, what happens? Select all that apply.
-
-- [ ] The process goes into a suspended state.
-- [ ] The process releases all the resources it was using to its parent.
-- [x] The process releases all the resources it was using back to the kernel.
-- [x] The process terminates automatically.
+### 02. In Linux, what process has the PID of 1?
+    
+- [ ] less    
+- [ ] kernel    
+- [x] init    
+- [ ] grep   
 
 
 ### 3. Which of the following process information can you find in Windows Task Manager? Select all that apply.
@@ -97,8 +97,9 @@
    
 - [x] A child process can be terminated by clicking on the X button in the top right corner of the application.
 - [ ] A child process is dependent on its parent process until the child process is terminated.
-- [ ] A child process can be terminated by running the taskkill /pid command in the CLI.
+- [x] A child process can be terminated by running the taskkill /pid command in the CLI.
 - [x] A child process inherits environment variables and settings from its parent.
+
 
 ### 2. In the following Linux command, which is the parent process and which is the child?
 
@@ -128,12 +129,12 @@ $ less /etc/myfile | grep Hello
 - [x] There is a letter T under the STAT field.
 
 
-### 5. Which of the following statements are true about SIGINT? Select all that apply.
-
-- [x] It is a signal that exists in both Windows and Linux.
-- [ ] It can be sent at the CLI by typing the sigint command.
-- [x] It is an interrupt signal that can be sent to a process that is running.
-- [x] It can be sent at the CLI by pressing the CTRL+C keys.
+### 05. Which of the following represents a signal in Linux?
+    
+- [ ] SUDO    
+- [ ] TOUCH    
+- [x] SIGPROF    
+- [ ] PING 
 
 
 ### 6. You launch notepad.exe from a PowerShell command prompt. Later, you use Process Explorer to restart the notepad.exe process? After restart, what is the parent process of notepad.exe?
@@ -154,10 +155,10 @@ $ less /etc/myfile | grep Hello
 
 ### 8. In iOS and Android, what’s the first thing you should try when troubleshooting a misbehaving app?
 
-- [ ] Close apps, one at a time, starting with the foreground app.
+- [x] Close apps, one at a time, starting with the foreground app.
 - [ ] Close apps, one at a time, starting with the least recently used app.
 - [ ] Uninstall apps, one at a time, starting with the least recently used app.
-- [x] Check for an app that is using a lot of battery.
+- [ ] Check for an app that is using a lot of battery.
 
 
 ### 9. Which of the following Powershell commands will sort processes by amount of non-paged memory, in descending order?
@@ -220,6 +221,14 @@ $ less /etc/myfile | grep Hello
 - [ ] It can be sent at the CLI by typing the sigint command.
 
 
+### 06. Which of the following options in Process Explorer will terminate a selected process? Select all that apply.    
+  
+- [ ] Suspend  
+- [ ] Restart  
+- [x] Kill Process  
+- [x] Kill Process Tree  
+ 
+
 ### 7. What are the two most common ways to terminate a process in Linux at the CLI? Select two options.
 
 - [x] Use the kill pid command.
@@ -228,12 +237,25 @@ $ less /etc/myfile | grep Hello
 - [x] Use the kill -KILL pid command.
 
 
+### 09. In Windows, what information is displayed by the Resource Monitoring tool? Select all that apply.
+   
+- [ ] System hardware properties    
+- [x] Process information along with data about the resources that the process is consuming   
+- [x] Information about particular resources on the system (like CPU, Memory, and Network usage)   
+- [ ] Information about current time and how long your system’s been running 
+
+
 ### 10. Which of the following Linux commands shows information about the current time, how long your system's been running, how many users are logged on, and what the load average of your machine is?
 
-- [x] uptime
+- [x] uptime   
 - [ ] lsof
-- [ ] ps -ef
+- [ ] ps -ef    
 - [ ] top
+
+
+----------
+## (more) 
+
 
 
 --- 
