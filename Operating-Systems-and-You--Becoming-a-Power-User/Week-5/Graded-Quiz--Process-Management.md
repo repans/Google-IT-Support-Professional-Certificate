@@ -121,12 +121,12 @@ $ less /etc/myfile | grep Hello
 - [ ] From the CLI, use the ps command.
 
 
-### 4. When using the ps -x command to check the status of a process in Linux, how would you know if a process is suspended (stopped)?
-
-- [ ] There is a letter S under the STAT field.
-- [ ] There is a letter R under the STAT field.
-- [ ] There is a letter S under the COMMAND field.
-- [x] There is a letter T under the STAT field.
+### 4. When using the ps -ef command to read process information in Linux, what is the process’ PPID?
+    
+- [ ] Its Process Identification number     
+- [ ] The ID of the person who launched the process    
+- [x] The Process Identification number of its parent    
+- [ ] The terminal associated with the process    
 
 
 ### 05. Which of the following represents a signal in Linux?
@@ -137,12 +137,12 @@ $ less /etc/myfile | grep Hello
 - [ ] PING 
 
 
-### 6. You launch notepad.exe from a PowerShell command prompt. Later, you use Process Explorer to restart the notepad.exe process? After restart, what is the parent process of notepad.exe?
-
-- [ ] smss.exe
-- [ ] PowerShell (powershell.exe)
-- [ ] notepad.exe
-- [x] Process Explorer (procexp.exe)
+### 6. Which of the following options are available in Process Explorer after right-clicking a running process in the top window pane? Select all that apply.
+   
+- [x] Suspend    
+- [x] Restart   
+- [ ] Remove Process Tree   
+- [x] Kill Process
 
 
 ### 7. In Linux, what signal is sent when you enter the kill pid command?
@@ -253,8 +253,6 @@ $ less /etc/myfile | grep Hello
 - [ ] top
 
 
-----------
-## (more) 
 
 
 
