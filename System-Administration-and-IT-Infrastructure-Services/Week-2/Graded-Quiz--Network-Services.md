@@ -104,6 +104,90 @@
 - [x] The local host file     
 
 
+------------- 
+## (Another Set)
+
+
+### Q1: Google’s GSuite (now called Google Workspace) is an example of which Cloud service?
+
+- [ ] Infrastructure as a Service (IaaS)
+- [ ] Platform as a Service (PaaS)
+- [x] Software as a Service (SaaS)
+- [ ] Directory as a Service (DaaS)
+
+
+### Q2: Which of the following are cons that come from using a Cloud Service? Select all that apply.
+
+- [x] The need to depend on a provider for service
+- [ ] A simplified user interface
+- [x] Recurring cost
+- [ ] Having to purchase expensive networking hardware
+
+
+### Q3: Which of the following is a benefit of virtualization compared to using dedicated hardware?
+
+- [ ] Performance
+- [ ] User experience
+- [ ] Security
+- [x] Maintenance
+
+
+### Q4: Which of the following best describes an intranet?
+
+- [x] An intranet is used to host a company’s internal websites and resources.
+- [ ] An intranet is a single server with many virtual instances on it.
+- [ ] An intranet is a type of file transfer protocol.
+- [ ] An intranet is a service that provides access to pre-configured virtual machines for a fee.
+
+
+### Q5: What is a type of tool a client could use to access a server and transfer files?
+
+- [x] An FTP Client
+- [ ] A DNS server
+- [ ] IaaS
+- [ ] A server operating system
+
+
+### Q6: A sysadmin wants to use preboot execution over a network. Which type of server will the sysadmin likely use to administer operating system installation files?
+
+- [ ] An FTP server
+- [ ] A DNS server
+- [ ] An SFTP server
+- [x] A TFTP server
+
+
+### Q7: PuTTY in Windows is similar to which Linux tool?
+
+- [ ] RDP
+- [ ] CLI
+- [x] SSH
+- [ ] Virtualization
+
+
+### Q8: You are setting up a website for your company. You have purchased a domain name for the site and have decided to host your web content yourself. What might you need to set up to point your new domain name to where web content is located?
+
+- [ ] A VNC client
+- [ ] A proxy server
+- [x] An authoritative DNS server
+- [ ] A TFTP server
+
+
+### Q9: Which of the following is an advantage of using DHCP?
+
+- [ ] DHCP allows you to manually set IP addresses.
+- [ ] DHCP maps IP addresses to human-readable URLs.
+- [x] DHCP leases IP addresses, removing the need to manually assign addresses.
+- [ ] DHCP allows the usage of static IP addresses
+
+
+### Q10: A network technician sets up an internal DNS server for a local network. When the technician types in a URL, which is checked first?
+
+- [ ] External ISP DNS servers
+- [ ] External public DNS servers
+- [ ] Local DNS servers
+- [x] The local host file
+
+
 ---
 
 > [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services/) {Week-2}
