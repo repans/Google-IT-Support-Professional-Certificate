@@ -1,3 +1,8 @@
+```
+  # Do not copy if you are taking the test.
+```
+--- 
+
 # What is System Administration?
 ##### Graded Quiz • 1h • 10 total points
 ---
