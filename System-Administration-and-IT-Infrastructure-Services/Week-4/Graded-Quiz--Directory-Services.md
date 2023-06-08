@@ -30,12 +30,12 @@
 - [x] Distinguished name
 - [ ] Domain name
 
-### 5. Which of these is a common protocol and a type of SASL authentication?
-
-- [x] Kerberos
-- [ ] SSL
-- [ ] SSH
-- [ ] SFTP
+### 5. When logging into a website that uses a directory service, what command authenticates your username and password?
+    
+- [x] Bind    
+- [ ] Modify    
+- [ ] Remove    
+- [ ] Add    
 
 ### 6. In active directory, what is the top most level in the hierarchy?
 
@@ -112,7 +112,7 @@
 
 ### 6. In Active Directory, which of the following can be functions of the Domain? (Choose all that apply)
 
-- [ ] A DNS server
+- [x] A DNS server
 - [ ] A container
 - [x] A server that holds a replica of the Active Directory database
 - [x] A Kerberos authentication server
@@ -211,12 +211,12 @@
 - [x] Policies are reapplied every 90 minutes, and preferences are a settings template that the user can change on the computer.
 - [ ] A policy is editable only by admins, but anyone can edit a group policy preference.
 
-### 10. You'd like to change the minimum password length policy in the Default Domain Policy group policy preference (GPO). What's the best way to go about doing this?
+### 10. Which of the following are common reasons a group policy doesn't take effect correctly? (Choose all that apply)
 
-- [x] Open the Group Policy Management Console by running gpmc.msc from the CLI
-- [ ] Open ADAC and edit policy settings there
-- [ ] Edit the Windows Registry to change group policy settings
-- [ ] Manually edit config files in SYSVOL
+- [ ] Kerberos may have issues with the UTC time on the clock.
+- [x] Replication failure may occur. 
+- [ ] The GPO may be linked to the OU that contains the computer. 
+- [x] Fast Logon Optimization may delay GPO changes from taking effect.
 
 
 ---
