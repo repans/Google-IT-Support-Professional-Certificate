@@ -75,15 +75,15 @@
 -------------
 (Another Set)
 
-### 1. Directory services store information in a hierarchical structure. Which statements about Organizational Units (OUs) of a directory service hierarchy are true? (Choose all that apply)
-
-- [x] Specific files within an OU, or container, are called "objects".
-- [x] Sub-member OUs inherit the characteristics of their parent OU.
-- [ ] Parent OUs inherit characteristics of their sub-members.
-- [x] Changes can be made to one sub-OU without affecting other sub-OUs within the same parent.
+### 1. Which of the following is not an advantage of replication of data in terms of directory services?
+   
+- [ ] It provides redundancy for data.   
+- [ ] It decreases latency when accessing the directory service.   
+- [x] It allows local management of user accounts.   
+- [ ] It allows flexibility, allowing for easy creation of new object types as needs change.  
 
 ### 2. Which of the following are examples of Lightweight Directory Access Protocol (LDAP)-based directory server software? (Choose all that apply)
-
+   
 - [ ] ADUC
 - [ ] RDP
 - [x] Microsoft's Active Directory
@@ -126,7 +126,7 @@
 
 ### 8. Which of these statements are true about managing through Active Directory? (Choose all that apply)
 
-- [ ] Distribution groups can be used to assign permission to resources.
+- [x] Distribution groups can be used to assign permission to resources.
 - [ ] ADAC uses PowerShell.
 - [x] Domain Local, Global, and Universal are examples of group scopes.
 - [x] The default group's Domain Users and Domain Admins are security groups.
@@ -213,7 +213,7 @@
 
 ### 10. Which of the following are common reasons a group policy doesn't take effect correctly? (Choose all that apply)
 
-- [ ] Kerberos may have issues with the UTC time on the clock.
+- [x] Kerberos may have issues with the UTC time on the clock.
 - [x] Replication failure may occur. 
 - [ ] The GPO may be linked to the OU that contains the computer. 
 - [x] Fast Logon Optimization may delay GPO changes from taking effect.
