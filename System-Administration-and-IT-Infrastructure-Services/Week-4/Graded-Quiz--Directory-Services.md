@@ -165,8 +165,8 @@
 ### 3. What roles does a directory server play in centralized management? (Choose all that apply)
 
 - [x] Centralized authentication
-- [x] Confidentiality
-- [ ] Accounting
+- [ ] Confidentiality
+- [x] Accounting
 - [x] Authorization
 
 ### 4. A Lightweight Directory Access Protocol (LDAP) entry reads as follows: dn: CN=John Smith ,OU=Sysadmin,DC=jsmith,DC=com. \n. What is the common name of this entry?
@@ -183,12 +183,12 @@
 - [ ] SSL
 - [ ] SSH
 
-### 6. In Active Directory, which of the following can be functions of the Domain? (Choose all that apply)
+### 6. Which of these statements about Active Directory (AD) are true? (Choose all that apply)
 
-- [ ] A container
-- [x] A DNS server
-- [x] A Kerberos authentication server
-- [x] A server that holds a replica of the Active Directory database
+- [ ] AD is incompatible with Linux, OS X, and other non-Windows hosts.   
+- [x] AD can "speak" LDAP.      
+- [ ] AD includes a tool called the Active Directory Authentication Center, or ADAC.   
+- [x] AD is used as a central repository of group policy objects, or GPOs.   
 
 ### 7. If a system administrator needs to give access to a resource to everyone in a domain, what group in Active Directory can they use?
 
@@ -197,15 +197,15 @@
 - [ ] All Users
 - [x] Domain Users
 
-### 8. Which of these statements are true about managing through Active Directory? (Choose all that apply)
-
-- [x] Domain Local, Global, and Universal are examples of group scopes.
-- [x] The default group's Domain Users and Domain Admins are security groups.
-- [ ] ADAC uses PowerShell.
-- [ ] Distribution groups can be used to assign permission to resources.
+### 8. Juan, a network user, sends an email to you, the IT admin of the network, stating that his account is locked because he has lost his password. Select all appropriate steps in helping Juan resolve his situation. (Choose all that apply)
+   
+- [x] Make sure the password reset is authorized by verifying that Juan is who he says he is.   
+- [ ] Ask Juan questions to help him remember his password.   
+- [x] Issue a temporary password.   
+- [x] Check the "User must change password at next logon" box so a new password must be created at the next logon.  
 
 ### 9. What is the difference between a group policy and a group policy preference?
-
+   
 - [ ] Preferences are reapplied every 90 minutes, and policies are more of a settings template.
 - [ ] A preference is editable only by admins, but anyone can edit a policy.
 - [x] Policies are reapplied every 90 minutes, and preferences are a settings template that the user can change on the computer.
