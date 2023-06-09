@@ -130,6 +130,48 @@
 - [x] It helps demonstrate the effectiveness of systems in place.
 - [ ] It’s a way to get more money for preventative systems.
 
+---------
+## (Another Set)  
+
+###  01. Which of the following is a critical part of data recovery?
+
+- [x] Effectively backing up data
+- [ ] Creating power redundancies
+- [ ] Stocking replacement drives
+- [ ] Port forwarding
+
+###  02. (Repeated) 
+
+###  03. (Repeated) 
+
+###  04. What are good reasons to do yearly disaster recovery testing? Select all that apply.
+
+- [x] To ensure multiple people have appropriate rights and training to restore operations
+- [x] To identify additional vulnerabilities
+- [x] To be prepared for all possible snags or problems
+- [ ] To create downtime
+
+###  05. (Repeated) 
+
+###  06. (Repeated)
+
+###  07. (Repeated)  
+
+###  08. You are performing a network risk assessment to develop your disaster recovery plan. Which of these are examples of preventative measures? Select all that apply.
+
+- [x] Redundancy solutions
+- [x] Regular, automated backups
+- [x] Operational documentation
+- [ ] Alert system for outages
+
+###  09. What are some benefits of a post-mortem? Select all that apply.
+
+- [x] To understand the cause of mistakes and how to prevent them
+- [ ] To punish mistakes
+- [x] To foster a culture where it's OK to make mistakes
+- [x] To learn from and adapt processes for higher efficiency
+
+###  10. (Repeated)
 
 
 ---
