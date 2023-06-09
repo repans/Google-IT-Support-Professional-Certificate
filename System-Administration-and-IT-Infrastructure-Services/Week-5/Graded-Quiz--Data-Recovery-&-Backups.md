@@ -75,55 +75,55 @@
 ---------
 ## (Amother Set) 
 
-## 01. (Repeated)
+### 01. (Repeated)
 
-## 02. Which of the following is an advantage of off-site backups?
+### 02. Which of the following is an advantage of off-site backups?
 
 - [ ] There is quicker data access
 - [ ] Data is more secure because of less outbound traffic
 - [x] Data is safe in case of disaster
 - [ ] There is less bandwidth usage
 
-## 03. Which of these are common backup tools you might consider when designing a backup solution? Select all that apply.
+### 03. Which of these are common backup tools you might consider when designing a backup solution? Select all that apply.
 
 - [ ] Regedit
 - [x] Backup and Restore
 - [x] Rsync
 - [x] Time Machine
 
-## 04. Common concerns with backups are disk failure, lack of redundancy, and increasing disk capacity. Which backup method addresses these concerns?
+### 04. Common concerns with backups are disk failure, lack of redundancy, and increasing disk capacity. Which backup method addresses these concerns?
 
 - [ ] Complete backup
 - [x] RAID array
 - [ ] Differential backups
 - [ ] Incremental backup
 
-## 05. Which type of backup only saves the parts of data that have changed within files since the last backup took place?
+### 05. Which type of backup only saves the parts of data that have changed within files since the last backup took place?
 
 - [ ] RAID array
 - [ ] Complete backup
 - [x] Incremental backup
 - [ ] Differential backups (x) 
 
-## 06. Which of the following are advantages of cloud storage services? Select all that apply.
+### 06. Which of the following are advantages of cloud storage services? Select all that apply.
 
 - [x] User backups don’t require complicated scheduling.
 - [ ] They allow everyone to access a person’s files
 - [x] They make it easy for users to configure what files or folders they want to backup.
 - [x] Users can sync and backup files across platforms and devices.
 
-## 07. Which element of the disaster recovery plan is designed to proactively minimize the impact of a disaster?
+### 07. Which element of the disaster recovery plan is designed to proactively minimize the impact of a disaster?
 
 - [ ] Detection measures
 - [x] Preventative measures
 - [ ] Disciplinary measures
 - [ ] Corrective or recovery measures
 
-## 08.  (Repeated)
+### 08.  (Repeated)
 
-## 09.  (Repeated)
+### 09.  (Repeated)
 
-## 10. Why is it important for post-incident analysis to highlight things that went well?
+### 10. Why is it important for post-incident analysis to highlight things that went well?
 
 - [ ] It minimizes the importance of what went wrong.
 - [ ] It improves team morale.
