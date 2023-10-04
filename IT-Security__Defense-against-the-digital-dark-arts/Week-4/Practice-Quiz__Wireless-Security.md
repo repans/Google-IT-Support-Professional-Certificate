@@ -4,7 +4,7 @@
 --- 
 
 # Filesystem Types   
-##### Practice Quiz • 30min • 9 total points 
+##### Practice Quiz • 8 min • 5 total points 
 ----- 
 
 ### **Question 1:** What are some weaknesses of the WEP scheme? Select all that apply.
