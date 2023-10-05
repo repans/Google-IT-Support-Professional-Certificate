@@ -95,7 +95,7 @@
 - [x] Counter-based
 
 
-### 04. Fillin the blank: Security Keys are more ideal than OTP generators because they are resistantto _____ attacks.     
+### 04. Fillin the blank: Security Keys are more ideal than OTP generators because they are resistant to _____ attacks.     
 - [ ] Password     
 - [ ] Brute force    
 - [ ] DDoS     
@@ -121,6 +121,44 @@
 - [ ] Extensible authentication protocols    
 - [ ] Access control entries    
 - [ ] Network access servers (NAS)
+
+
+------
+## Additional 
+
+### 01. Fill in the blank: In the world of AAA security, “authz” is short for ______.    
+- [ ] authentication    
+- [ ] authored    
+- [x] authorization    
+- [ ] authoritarian    
+
+
+### 02. In the three A’s of security (AAA), what is the process of proving who you claim to be?    
+- [x] Authentication     
+- [ ] Authored     
+- [ ] Accounting     
+- [ ] Authorization    
+
+
+### 05. What is a client certificate used for?      
+- [x] To authenticate the client      
+- [ ] To authenticate the subordinate CA      
+- [ ] To authenticate the CA      
+- [ ] To authenticate the server  
+
+
+### 09. Consider the following scenario: A company is utilizing Google Business applications for their marketing department. These applications should be able to temporarily access a user's email account to send links for review. Why should the company use Open Authorization (OAuth) in this situation?      
+- [ ] Gain access through a wireless access point      
+- [ ] Administer multiple network devices      
+- [x] Compatibility with third party apps      
+- [ ] Utilize a Key Distribution Center server   
+
+
+### 10. What does a Terminal Access Controller Access Control System Plus (TACACS+) keep track of? Select all that apply.     
+- [x] Systems users authenticated to     
+- [x] Commands that were run     
+- [x] Track user authentication     
+- [ ] Bandwidth and resource usage   
 
 
 
