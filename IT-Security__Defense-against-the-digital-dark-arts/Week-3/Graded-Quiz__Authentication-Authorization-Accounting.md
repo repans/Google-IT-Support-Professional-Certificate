@@ -78,5 +78,51 @@
 - [x] Programs  
 
 
+------
+## More 
+
+### 02. Which of the following passwords is the strongest for authenticating to a system?     
+- [ ] P@ssword!      
+- [x] P@w04d!$$L0N6        
+- [ ] Password!      
+- [ ] P@55w0rd!
+
+
+### 03. Which of the following are types of one-time-password tokens? Select all that apply.       
+- [ ] Identity-based       
+- [ ] Password-based      
+- [x] Time-based       
+- [x] Counter-based
+
+
+### 04. Fillin the blank: Security Keys are more ideal than OTP generators because they are resistantto _____ attacks.     
+- [ ] Password     
+- [ ] Brute force    
+- [ ] DDoS     
+- [x] Phishing  
+
+
+### 05. If an organization want to issue and sign client certificates, what will it need to set up?    
+- [ ] A CRL infrastructure    
+- [x] A CA infrastructure    
+- [ ] An ID infrastructure    
+- [ ] An LDAP infrastructure 
+
+
+### 07.  Fill in the blank: Kerberos enforces strict _____ requirements. Otherwise, authentication will fail.     
+- [x] time     
+- [ ] AES      
+- [ ] strong password     
+- [ ] LDAP 
+
+
+### 10. Which of the following is a way to define permissions or authorizations for objects?    
+- [x] Access control lists (ACL)     
+- [ ] Extensible authentication protocols    
+- [ ] Access control entries    
+- [ ] Network access servers (NAS)
+
+
+
 --- 
 > [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security/) {Week-3} 
