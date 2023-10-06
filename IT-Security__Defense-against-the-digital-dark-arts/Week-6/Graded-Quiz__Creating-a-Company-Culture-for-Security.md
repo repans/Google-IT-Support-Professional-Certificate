@@ -29,7 +29,7 @@
 - [ ] Security assessment   
 
 
-### 04. Which of the following devices are considered a risk when storing confidential information? Selectall that apply.      
+### 04. Which of the following devices are considered a risk when storing confidential information? Select all that apply.      
 - [ ] Encrypted portable hard drives     
 - [x] CD drives    
 - [x] USB sticks     
@@ -59,9 +59,9 @@
 
 ### 08. Third-party services that require equipment on-site may require a company to do which of the following? Select all that apply.      
 - [x] Provide additional monitoring via a firewall or agentless solution      
-- [x] Unrestricted access to the network      
+- [ ] Unrestricted access to the network      
 - [x] Provide remote access to third-party service provider     
-- [ ] Evaluate hardware in the lab first     
+- [x] Evaluate hardware in the lab first     
 
 
 ### 09. Periodic mandatory security training courses can be given to employees in what way? Select all that apply.      
@@ -76,6 +76,58 @@
 - [ ] remediation     
 - [ ] documentation     
 - [ ] escalation 
+
+
+-------
+## More 
+
+### 01. When handling credit card payments, the organization needs to adhere to the .     
+- [ ] IEEE      
+- [x] PCI DSS     
+- [ ] ISO      
+- [ ] HIPAA   
+
+
+### 02. What is the first step in performing a security risk assessment?     
+- [x] Threat modeling      
+- [ ] Vulnerability scanning     
+- [ ] Penetration testing     
+- [ ] Logs analysis   
+
+
+### 03. What is penetration testing?      
+- [ ] Attempting to gather credentials with phishing emails.      
+- [ ] Giving network access to a bad actor for the purposes of testing.      
+- [ ] Assessing computers, computer systems, networks, or applications for weaknesses.      
+- [x] Attempting to break into a system or network for the purpose of verifying the systems in place.   
+
+
+### 05. Which of the following are bad security habits commonly seen amongst employees in the workplace? Selectall that apply.       
+- [x] Password on a post-it note      
+- [x] Leave laptop logged in and unattended       
+- [ ] Log out of website session      
+- [ ] Lock desktop screen     
+
+
+### 07. When contracting services from a third party, what risk is the organization exposed to?      
+- [x] Trusting the third party's security      
+- [ ] DDoS attacks       
+- [ ] Malware attacks      
+- [ ] Zero-day vulnerabilities   
+
+
+### 09. Management wants to build a culture where employees keep security in mind. Employees should be able to access information freely and provide feedback or suggestions without worry. Which of these are great ideas for this type of culture? Select all that apply.       
+- [ ] Bring your own device       
+- [x] Designated mailing list       
+- [x] Posters promoting good security behavior       
+- [ ] Desktop monitoring software  
+
+
+### 10. How can events be reconstructed after an incident?       
+- [ ] By replaying security video footage       
+- [ ] By interviewing the people involved       
+- [x] By reviewing and analyzing logs       
+- [ ] By doing analysis of forensic malware    
 
 
 
